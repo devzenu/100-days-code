@@ -1,0 +1,6 @@
+- Install nodejs in system (win 10)
+- understand js syntax
+- write hello world
+- learn to use browser console for js (if applicable)
+- run js program using terminal
+- install vscode and do necessaey setup

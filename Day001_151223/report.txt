@@ -1,0 +1,7 @@
+Excited to share my first day in the IT world! Today, I started learning JavaScript, even though my medical background makes the new terms a bit of a jungle.
+
+First things first, I got myself Visual Studio, a cool program for coding. My first code? Just a simple "let message = 'slam'". Easy, right?
+
+But then came the terminal, a mysterious gateway to the code world. I fumbled around like a lost explorer, but eventually (maybe with a little coffee magic!), I cracked its code!
+
+So, day one down! I learned about JavaScript's history, its secret language (syntax), and even made friends with variables (those little boxes that hold your code). Not bad for a doctor turned techie, huh?

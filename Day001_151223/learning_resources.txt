@@ -1,2 +1,4 @@
-https://www.javascripttutorial.net/javascript-data-types/
+https://www.javascripttutorial.net/what-is-javascript/
+https://www.javascripttutorial.net/javascript-hello-world/
+https://www.javascripttutorial.net/javascript-syntax/
 https://www.sololearn.com/en/learn/courses/javascript-introduction
